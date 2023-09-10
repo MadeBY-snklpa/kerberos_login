@@ -1,6 +1,6 @@
 <?php
 
-$ldapServer = "ldap://adserver.hrs.lk";
+$ldapServer = "ldap://172.22.81.221";
 $ldapAdminUsername = "authadmin@hrs.lk";
 $ldapAdminPassword = "abc@123";
 

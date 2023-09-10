@@ -5,8 +5,8 @@ ini_set('session.gc_maxlifetime', 300);
 session_set_cookie_params(300);
 session_start();// Start the session
 
-$ldapServer = "ldap://192.168.123.4";
-$ldapAdminUsername = "administrator@hrs.lk";
+$ldapServer = "ldap://172.22.81.221";
+$ldapAdminUsername = "authadmin@hrs.lk";
 $ldapAdminPassword = "abc@123";
 
 // Connect to LDAP server
