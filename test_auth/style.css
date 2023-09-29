@@ -5,7 +5,7 @@ html {
 
 body {
   background: linear-gradient(45deg, rgba(66, 183, 245, 0.8) 0%, rgba(66, 245, 189, 0.4) 100%);
-  background-image: url("https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFua3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"); /* Add the path to your background image */
+  background-image: url("back.jpg"); /* Add the path to your background image */
   background-size: cover; /* Adjust the background size as needed */
   color: rgba(0, 0, 0, 0.6);
   font-family: "Roboto", sans-serif;
